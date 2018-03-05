@@ -54,7 +54,7 @@ This is an example of one of the more advanced debug features. 'Evaluate code fr
 - [Breakpoints](https://goo.gl/LZ2GGr)
 - [Evaluation](https://goo.gl/Gz1Bz6)
 
-####Maven
+#### Maven
 - [New Project](https://goo.gl/BEZ1qD)
 - [Fat Jar](https://goo.gl/C8tZLu)
 - [Bukkit Project](https://goo.gl/URsDsm)
