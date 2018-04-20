@@ -60,4 +60,12 @@ This is an example of one of the more advanced debug features. 'Evaluate code fr
 - [Fat Jar](https://goo.gl/C8tZLu)
 - [Bukkit Project](https://goo.gl/URsDsm)
 
+#### Gradle
+- [New Project](https://drive.google.com/uc?id=1VGMx6ZqropObduXi5NBRglh0etHzJdV5)
+- [Fat Jar](https://drive.google.com/uc?id=13N5YyxGZ58SxP0VMGenpc1D6ppxcSPX-)
+- [Bukkit Plugin](https://drive.google.com/uc?id=13N5YyxGZ58SxP0VMGenpc1D6ppxcSPX-)
+#### Resources
+- [pom.xml](https://gist.github.com/Exerosis/89cade862d386ef1b476e158b3ad208d)
+- [build.gradle](https://gist.github.com/Exerosis/6295bfa825c21bc63ada3fee20c890b0)
+
 
